@@ -7,6 +7,16 @@ Alasan Design : Sesuai Tema JCC ( Hijau, Biru, Kuning)
 
 Source Code : https://vuetifyjs.com/
 
+link video : https://drive.google.com/file/d/1GaY28zYvLpun7ibDmZqIg8lTzKU74FoY/view?usp=sharing
+
+link deploy :
+
+
+1 : https://eager-wescoff-6b8cfc.netlify.app/
+2 : https://adamrzky.github.io/deploy/
+
+( untuk deployment masih error )
+
 ## Project setup
 
 ```
