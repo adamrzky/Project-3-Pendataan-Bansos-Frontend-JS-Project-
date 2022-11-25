@@ -16,7 +16,6 @@ link deploy :
 
 2 : https://adamrzky.github.io/deploy/
 
-( untuk deployment masih error )
 
 Source Code : https://vuetifyjs.com/
 
